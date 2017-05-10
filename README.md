@@ -25,5 +25,5 @@ private Location getLastKnownLocation() {
 	    return bestLocation;
 	}
   
-  <img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/1.png"/>
-  <img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/2.png"/>
+  <img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/1.jpg"/>
+  <img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/2.jpg"/>
