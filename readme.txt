@@ -1,10 +1,10 @@
-TestGPS ÊÇgpsÄ£¿é½øĞĞ¶¨Î»¡£ÔÚÊÒÍâÄÜ¹»ËÑË÷µ½ÎÀĞÇ¡£
-TestWifiLoacation£ºÊÇnetworkÄ£Ê½½øĞĞ¶¨Î»¡£
-LocaionManager-master.zip ÊÇ¼¯ºÏ¸ö¸÷ÖÖ¶¨Î»µÄ¹¦ÄÜ¡£ÏÈ½øĞÔgps¶¨Î»£¬gpsÊ§°ÜÓÃnetwork¶¨Î»¡£
+TestGPS æ˜¯gpsæ¨¡å—è¿›è¡Œå®šä½ã€‚åœ¨å®¤å¤–èƒ½å¤Ÿæœç´¢åˆ°å«æ˜Ÿã€‚
+TestWifiLoacationï¼šæ˜¯networkæ¨¡å¼è¿›è¡Œå®šä½ã€‚
+LocaionManager-master.zip æ˜¯é›†åˆä¸ªå„ç§å®šä½çš„åŠŸèƒ½ã€‚å…ˆè¿›æ€§gpså®šä½ï¼Œgpså¤±è´¥ç”¨networkå®šä½ã€‚
 
 
 =======================================
-ÓĞĞ©Éè±¸¶¨Î»×ÜÊÇÊ§°Ü¡£Ó¦Îªlocation = null£¬¿ÉÒÔÓÃÏÂÃæµÄº¯ÊıÀ´µÃµ½location£¬µ«ÊÇËã³öÀ´µÄ¾­¶ÈÎ¬¶È²»¶Ô
+æœ‰äº›è®¾å¤‡å®šä½æ€»æ˜¯å¤±è´¥ã€‚åº”ä¸ºlocation = nullï¼Œå¯ä»¥ç”¨ä¸‹é¢çš„å‡½æ•°æ¥å¾—åˆ°locationï¼Œä½†æ˜¯ç®—å‡ºæ¥çš„ç»åº¦ç»´åº¦ä¸å¯¹
 
 private Location getLastKnownLocation() {
 		lm = (LocationManager)getApplicationContext().getSystemService(LOCATION_SERVICE);
@@ -22,3 +22,8 @@ private Location getLastKnownLocation() {
 	    }
 	    return bestLocation;
 	}
+	
+	
+	<img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/1.png"/>
+	
+	<img src="https://raw.githubusercontent.com/whtchl/TempGPS/master/art/2.png"/>
